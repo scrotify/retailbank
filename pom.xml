@@ -19,10 +19,9 @@
 		<java.version>1.8</java.version>
 	</properties>
     <!--
-    comment comment
-     -->
-  
-	<dependencies>
+    comment 
+    -->
+  	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
