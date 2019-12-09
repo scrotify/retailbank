@@ -19,9 +19,9 @@
 		<java.version>1.8</java.version>
 	</properties>
     <!--
-    comment 
+    comment comment
      -->
-     <!-- comment1 -->
+  
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
